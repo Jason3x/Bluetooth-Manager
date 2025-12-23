@@ -23,3 +23,6 @@ Place the Bluetooth Manager script in the tools directory of roms/tools or roms2
 
 # Thanks 
 Script created to the work of daidaigo
+
+# If you like my work, consider buying me a coffee.
+- https://ko-fi.com/jason3x
